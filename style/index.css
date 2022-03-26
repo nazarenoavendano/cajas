@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 2px;
+  font-family: serif;  
+  font-size: 30px;
+  text-transform: lowercase;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+.cajaNegra {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.cajaRoja {
+  background-color: #ff0000;
+  color: gold;
+}
